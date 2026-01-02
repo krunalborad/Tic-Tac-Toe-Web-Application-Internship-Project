@@ -1,0 +1,25 @@
+🎮 Tic-Tac-Toe Web Application
+A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
+It allows two players to play turn by turn with real-time updates and a clean user interface.
+
+🚀 Features
+🎯 Two-player gameplay (X vs O)
+🔁 Reset game anytime
+🏆 Automatically detects winner or draw
+🎨 Clean and responsive UI
+⚡ Instant game updates
+
+🛠️ Technologies Used
+HTML5 – Structure of the game
+CSS3 – Styling and layout
+JavaScript – Game logic and interactions
+
+🧠 How It Works
+- Players take turns clicking on the grid
+- The game checks for a winning combination
+- Displays the winner or draw message
+- Reset button restarts the game
+
+🏁 Conclusion
+This Tic-Tac-Toe Web Application is a beginner-friendly project that helps understand JavaScript logic, event handling, and DOM manipulation.
+It’s a fun and simple way to practice front-end development skills.
